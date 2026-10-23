@@ -1,0 +1,29 @@
+[
+  {
+    "C": 1,
+    "degree": 2,
+    "fit_time": 97.1,
+    "n_support_vectors": 16875,
+    "train_acc": 0.8986666666666666,
+    "val_acc": 0.8740833333333333,
+    "test_acc": 0.8657
+  },
+  {
+    "C": 1,
+    "degree": 3,
+    "fit_time": 109.0,
+    "n_support_vectors": 16870,
+    "train_acc": 0.90775,
+    "val_acc": 0.86425,
+    "test_acc": 0.8581
+  },
+  {
+    "C": 1,
+    "degree": 4,
+    "fit_time": 129.3,
+    "n_support_vectors": 17221,
+    "train_acc": 0.9099791666666667,
+    "val_acc": 0.8456666666666667,
+    "test_acc": 0.842
+  }
+]

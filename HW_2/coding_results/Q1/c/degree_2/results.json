@@ -1,0 +1,9 @@
+{
+  "C": 1,
+  "degree": 2,
+  "fit_time": 97.1,
+  "n_support_vectors": 16875,
+  "train_acc": 0.8986666666666666,
+  "val_acc": 0.8740833333333333,
+  "test_acc": 0.8657
+}

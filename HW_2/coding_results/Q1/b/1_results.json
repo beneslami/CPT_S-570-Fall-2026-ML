@@ -1,0 +1,7 @@
+{
+  "C": 1,
+  "fit_time": 0.0,
+  "n_support_vectors": 15843,
+  "train_acc": 0.9016875,
+  "test_acc": 0.8377
+}

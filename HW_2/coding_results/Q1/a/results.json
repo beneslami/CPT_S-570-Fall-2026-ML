@@ -1,0 +1,74 @@
+[
+  {
+    "C": 0.0001,
+    "train_acc": 0.7682291666666666,
+    "val_acc": 0.76775,
+    "test_acc": 0.7624,
+    "n_support_vectors": 34803,
+    "fit_seconds": 300.6
+  },
+  {
+    "C": 0.001,
+    "train_acc": 0.8344166666666667,
+    "val_acc": 0.83125,
+    "test_acc": 0.8224,
+    "n_support_vectors": 24161,
+    "fit_seconds": 146.0
+  },
+  {
+    "C": 0.01,
+    "train_acc": 0.8721041666666667,
+    "val_acc": 0.8619166666666667,
+    "test_acc": 0.8509,
+    "n_support_vectors": 18366,
+    "fit_seconds": 89.3
+  },
+  {
+    "C": 0.1,
+    "train_acc": 0.8905416666666667,
+    "val_acc": 0.865,
+    "test_acc": 0.8536,
+    "n_support_vectors": 15807,
+    "fit_seconds": 75.8
+  },
+  {
+    "C": 1.0,
+    "train_acc": 0.9016875,
+    "val_acc": 0.84875,
+    "test_acc": 0.8377,
+    "n_support_vectors": 15843,
+    "fit_seconds": 84.7
+  },
+  {
+    "C": 10.0,
+    "train_acc": 0.8042083333333333,
+    "val_acc": 0.76075,
+    "test_acc": 0.755,
+    "n_support_vectors": 19369,
+    "fit_seconds": 94.9
+  },
+  {
+    "C": 100.0,
+    "train_acc": 0.74025,
+    "val_acc": 0.7115833333333333,
+    "test_acc": 0.6993,
+    "n_support_vectors": 20743,
+    "fit_seconds": 94.6
+  },
+  {
+    "C": 1000.0,
+    "train_acc": 0.74025,
+    "val_acc": 0.7115833333333333,
+    "test_acc": 0.6993,
+    "n_support_vectors": 20743,
+    "fit_seconds": 94.4
+  },
+  {
+    "C": 10000.0,
+    "train_acc": 0.74025,
+    "val_acc": 0.7115833333333333,
+    "test_acc": 0.6993,
+    "n_support_vectors": 20743,
+    "fit_seconds": 95.1
+  }
+]
